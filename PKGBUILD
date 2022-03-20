@@ -1,7 +1,7 @@
 # Maintainer: Siddhartha <dev@sdht.in>
 
 pkgname=zotero-git
-pkgver=r11712.20210914.f0a8c9ada
+pkgver=r12008.20220318.7182531ec
 pkgrel=1
 pkgdesc='Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share your research sources.'
 arch=('x86_64')
